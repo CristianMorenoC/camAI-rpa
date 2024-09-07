@@ -1,0 +1,7 @@
+pillow
+easyocr
+pandas
+re
+PIL
+numpy
+cv2
